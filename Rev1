@@ -16,13 +16,21 @@
 		},
 		"tabs": [
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "Welcome",
 				"imageurl": "https://i.imgur.com/mGt3cAF.png",
 				"content": [
 					{
 						"title": "Welcome to ChaotikARK",
 						"text": "Thanks and Welcome to ChaotikARK! We're thrilled to have you. Check out our Discord for tips, tricks and community interaction. We're a friendly bunch so don't hesitate to jump in and say hello.\r\n\r\nThis is a new server and is still in the Beta phase. This means that adjustments will be made almost daily to get everything setup and running how we want. Do not get discouraged if something isnt exactly how you would like as some things will still be changed and tweaked over the next few weeks.\r\n\r\nThanks,\r\nProdigy"
+					},
+					{
+						"title": "Important News",
+						"text": ""
+					},
+					{
+						"title": "Amissa News",
+						"text": ""
 					}
 				]
 			},
@@ -33,7 +41,7 @@
 				"content": [
 					{
 						"title": "Rules",
-						"text": "-Do be kind to others and help new players.\r\n-Do pick up your traps/structures after taming.\r\n-Do remember that Primal Chaose and Descended Ark Dino's can and will break structures in your base. Use the Descended Structures Mod and place Descended Shields to protect your base.\r\n-Do secure your store bought items. Clone your special Dino's and Soultrap them then place into a Descended Vault. I will not Refund or Replace them.\r\n-Do be careful when transfering items between servers. This can be buggy and you might lose your items.\r\n\r\n\r\n-Do not Undermesh, Glitch, Exploit, Abuse, Cheat, Use Racial Slurs(Including Names), or use Profanity/Insults in Global Chat.\r\n-Do not spam Foundations/Structures to excessively block off areas.\r\n-Do not build too close to another base. You should be out of/on the edge of clip range.\r\n-Do not build to close to known resource spawns. It's rude and you might get your base wiped.\r\n-Do not Generate boss dino's at someone else's base. If I get a report with Proof it will get you banned.\r\n\r\n-I am using Nitrado's Servers as they seem to be the best at the moment. I won't be held responsible for lost Items or Dino's bought from stores after a server crash, bugged saves, server restores or wild dino's breaking items."
+						"text": "-Do be kind to others and help new players.\r\n-Do pick up your traps/structures after taming.\r\n-Do remember that Primal Chaose and Descended Ark Dino's can and will break structures in your base. Use the Descended Structures Mod and place Descended Shields to protect your base.\r\n-Do secure your store bought items. Clone your special Dino's and Soultrap them then place into a Descended Vault. I will not Refund or Replace them.\r\n-Do be careful when transfering items between servers. This can be buggy and you might lose your items.\r\n\r\n\r\n-Do not Undermesh, Glitch, Exploit, Abuse, Cheat, Use Racial Slurs(Including Names), or use Profanity/Insults in Global Chat.\r\n-Do not spam Foundations/Structures to excessively block off areas.\r\n-Do not build too close to another base. You should be out of/on the edge of clip range.\r\n-Do not build to close to known resource spawns. It's rude and you might get your base wiped.\r\n-Do not Generate boss dino's at someone else's base. If I get a report with Proof it will get you banned.\r\n\r\n-On or Around the 1st of every month any accounts that have not been logged on for 30 days will be deleted. This includes Character, Tribe, Dino's and Structures. There are exceptions to this rule like Military Deployment, Health Issues or Work required traveling. It is your responsibility to contact the Staff to make arrangements.\r\n\r\n-I am using Nitrado's Servers as they seem to be the best at the moment. I won't be held responsible for lost Items or Dino's bought from stores after a server crash, bugged saves, server restores or wild dino's breaking items."
 					}
 				]
 			},
@@ -44,7 +52,11 @@
 				"content": [
 					{
 						"title": "Ragnarok Server",
-						"text": "CURRENT SETTINGS:\r\n-XP: x30, Harvest: x30, Taming: x20\r\n-Breed: x10, Hatch: x10, Mature: x10\r\n-Player Level: 105\r\n-Dino Level: 600\r\n\r\nCURRENT MODS:\r\n-Primal Chaos and Descended ARK\r\n-Automated Ark, Cybers Structures and Ark Descended Structures\r\n-Der Dino Finder, Better Breeding, Awesome Spyglass, Super Spyglass\r\n-Resonant's Shop Mod, Utilities Plus, MarniiMods Hairstyles\r\n-Death Inventory Keeper, Net FPS Boost, ArkNav\r\n-TG Stacking Mod, Ultimate Tranqs, Crazy's Potions\r\n-Omega Teleporters and Dino Storage\r\n-Seed Farm, Upgrade Station, Dino Potions\r\n-New Dino Cloner\r\n\r\nDIRECT CONNECTION:\r\nIP: 85.190.136.247:5280\r\nGame Port: 5280"
+						"text": "CURRENT SETTINGS:\r\n-XP: x15, Harvest: x15, Craft: x15, Explorer Note: 20\r\n-Breed: x10, Hatch: x10, Mature: x5, Imrpint: x10\r\n-Player Level: 105\r\n-Dino Level: 600\r\n\r\nCURRENT MODS:\r\n-Descended Ark\r\n-Primal Chaos\r\n-ASA Companion Bot\r\n-Alfa Oceanic Platforms\r\n-Automated Ark \r\n-Cybers Structures\r\n-Ark Descended Structures\r\n-Klinger Additional Rustic Building\r\n-Klinger Additional Structures\r\n-Greenhouse Glass Fix\r\n-Der Dino Finder\r\n-Better Breeding\r\n-Awesome Spyglass\r\n-Super Spyglass\r\n-Mouse Saver\r\n-Resonant's Shop Mod\r\n-Utilities Plus\r\n-MarniiMods Hairstyles\r\n-Death Inventory Keeper\r\n-Net FPS Boost\r\n-ArkNav\r\n-TG Stacking Mod\r\n-Ultimate Tranqs\r\n-Crazy's Potions\r\n-Awesome Teleporters\r\n-Omega Dino Storage\r\n-SCS Dyno Storage\r\n-Seed Farm\r\n-Upgrade Station\r\n-Dino Upgrade Potions\r\n-New Dino Cloner\r\n\r\n\r\nDIRECT CONNECTION:\r\nIP: 85.190.136.247:5280\r\nGame Port: 5280"
+					},
+					{
+						"title": "Extinction Server",
+						"text": "CURRENT SETTINGS:\r\n-XP: x15, Harvest: x15, Craft: x15, Explorer Note: 20\r\n-Breed: x10, Hatch: x10, Mature: x5, Imrpint: x10\r\n-Player Level: 105\r\n-Dino Level: 600\r\n\r\nCURRENT MODS:\r\n-Descended Ark\r\n-Primal Chaos\r\n-ASA Companion Bot\r\n-Alfa Oceanic Platforms\r\n-Automated Ark \r\n-Cybers Structures\r\n-Ark Descended Structures\r\n-Klinger Additional Rustic Building\r\n-Klinger Additional Structures\r\n-Greenhouse Glass Fix\r\n-Der Dino Finder\r\n-Better Breeding\r\n-Awesome Spyglass\r\n-Super Spyglass\r\n-Mouse Saver\r\n-Resonant's Shop Mod\r\n-Utilities Plus\r\n-MarniiMods Hairstyles\r\n-Death Inventory Keeper\r\n-Net FPS Boost\r\n-ArkNav\r\n-TG Stacking Mod\r\n-Ultimate Tranqs\r\n-Crazy's Potions\r\n-Awesome Teleporters\r\n-Omega Dino Storage\r\n-SCS Dyno Storage\r\n-Seed Farm\r\n-Upgrade Station\r\n-Dino Upgrade Potions\r\n-New Dino Cloner\r\n\r\nDIRECT CONNECTION:\r\nIP: 85.190.136.250:5190\r\nGame Port: 5190"
 					}
 				]
 			},
@@ -55,11 +67,11 @@
 				"content": [
 					{
 						"title": "Recent Server Changes",
-						"text": "7-17-2025\r\n-Changed BabyMatureSpeedMultiplier to 5.0 it was previously set to .2 in error. This should massively speed up dino growth times.\r\n-Added WBUI2 mod and removed Atomic Server Manager as it is no longer supported.\r\n-Added Alfa Oceanic Platforms\r\n\r\n7-16-2025\r\n-Changed EggHatchIncubationMultiplier from 1.0 to .5 This will halve the previous time it took.\r\n-Changed PlayerCharacterFoodDrainMultiplier from .5 to .25 This change will take twice as long for players to get hungry."
+						"text": "Server Changes: \r\n\r\n\r\n"
 					},
 					{
-						"title": "In-Game Shop Info",
-						"text": "There is a Whop Store setup for you to be able to buy in-game points if you don't want to wait long enough to earn the points or if it is a store only available item.\r\n\r\nAll proceeds from this will be used to purchase more servers for a cluster and the monthly rental fee's.\r\n\r\nThe point system is set at $10 for 2000 points.\r\n\r\nThe $50, $80 and $100 tiers each give 1000, 2000, and 3000 additional free points respectively. \r\n\r\n$20 = 4000 in-game points\r\n$50 = 11000 in-game points\r\n$80 = 18000 in-game points\r\n$100 = 23000 in-game points\r\n\r\nUnfortunately there is not an automated system to give the points in-game. Staff will have to manually add the points to your in-game shop so you can then purchase the items. Due to crazy work schedule ATM most week nights the transfer will be done from 6cst to 10cst. Weekend time frame will be much more flexible."
+						"title": "ChaotikARK Store & Points Info",
+						"text": "Points will be accrued the following ways:\r\nRegular Player                                               300pts daily\r\nPremium Player*                                            350pts daily\r\nSubscription: Dodo                                        400pts daily\r\nSubscription: Dilo                                           450pts daily\r\nSubscription: Bronto                                      500pts daily\r\n\r\n*Premium members are anyone who has donated at any point.\r\n\r\nThere is a Tip4Serv Automated Store setup for you to be able to buy in-game points if you don't want to wait long enough to earn the points or if it is a store only available item.\r\n\r\nAll proceeds from this will be used to purchase more servers for a cluster and the monthly rental fee's.\r\n\r\nThe point system is set at $10 for 2000 points.\r\n\r\nThe $50, $80, $100, and $200 tiers each give 1000, 2000, 3000, and 10,000 additional free points respectively. \r\n\r\n$20 = 4,000 in-game points\r\n$50 = 11,000 in-game points\r\n$80 = 18,000 in-game points\r\n$100 = 23,000 in-game points\r\n$200 = 50,000 in-game points\r\n\r\nOnce you have purchased or accrued the amount of points needed to purchase and item then make sure you are logged on the server where you want to receive the items then go to Discord and go into the ChatikARK Store channel and click buy."
 					}
 				]
 			}
@@ -67,13 +79,14 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/ebvFjbXX"
+				"url": "https://discord.gg/m2rvz5FVxT"
 			},
 			{
 				"text": "Shop",
-				"url": "https://whop.com/chaotik-ark-5/"
+				"url": "https://chaotikark.tip4serv.com"
 			}
 		],
 		"version": 2
 	}
+}
 }
